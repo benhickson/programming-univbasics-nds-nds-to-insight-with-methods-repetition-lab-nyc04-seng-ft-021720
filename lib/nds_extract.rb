@@ -48,7 +48,7 @@ def total_gross(source)
     sum = sum + directors_totals[list_of_directors[i]]
   end
   
-  output
+  sum
 end
 
 
